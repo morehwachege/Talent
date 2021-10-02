@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Talent</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_here">Don\'t have an account?\nRegister here.</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Full Name</string>
+    <string name="repeatpassword">Repeat Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="loginhere">Already have an account?\nLogin here.</string>
+    <string name="sign_up_here">Sign up here</string>
+    <string name="login_here">Login here</string>
+</resources>
